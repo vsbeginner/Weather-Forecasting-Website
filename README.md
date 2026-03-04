@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecasting Website
+#  Weather Forecasting Website
 
 A **dynamic weather forecasting web application** built using **HTML, CSS, and JavaScript** that provides real-time weather data for any location in the world.
 
