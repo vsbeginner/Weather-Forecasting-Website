@@ -141,8 +141,16 @@ weather-forecasting-website
 
 ---
 
-# Project Demo
-https://github.com/vsbeginner/Weather-Forecasting-Website/raw/main/Demo%20(2).mp4
+# 🎥 Project Video Walkthrough & UI Showcase
+
+<div align="center">
+  <video src="Demo%20(2).mp4" controls="controls" width="100%"></video>
+  <br>
+  <sub><b>Video Walkthrough:</b> Live interactive weather forecasting demonstration, geolocation detection, and OpenWeatherMap API telemetry.</sub>
+  <br><br>
+  <img src="weather-app.jpg" alt="Weather Forecast Application UI Screenshot" width="95%"><br>
+  <sub><b>Visual Dashboard:</b> Real-time meteorological telemetry, humidity, wind speed, and multi-day forecast.</sub>
+</div>
 
 #  Usage
 
